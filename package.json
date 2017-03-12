@@ -22,10 +22,14 @@
     "standard": "9.0.1"
   },
   "dependencies": {
+    "app-root-dir": "1.0.2",
     "debug": "2.6.2",
     "detect-installed": "2.0.4",
     "ramda": "0.23.0"
   },
+  "keywords": [
+    "noth"
+  ],
   "engines": {
     "node": ">=7.5.0"
   }

@@ -25,6 +25,6 @@
     "detect-installed": "2.0.4"
   },
   "engines": {
-    "node": ">=4.8.0"
+    "node": ">=6.10.0"
   }
 }

@@ -35,7 +35,6 @@
     "node": ">=7.5.0"
   },
   "_moduleAliases": {
-    "@root": ".",
     "@noth": "./lib"
   }
 }

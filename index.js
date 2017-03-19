@@ -2,6 +2,6 @@
 
 require('module-alias/register')
 
-module.exports = function (server) {
-  return require('@noth')(server)
+module.exports = function (server, options) {
+  return require('@noth')(server, options)
 }

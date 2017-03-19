@@ -1,5 +1,7 @@
 'use strict'
 
+require('module-alias/register')
+
 module.exports = function (server) {
-  return require('./lib/base')(server)
+  return require('@noth/base')(server)
 }

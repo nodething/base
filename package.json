@@ -1,21 +1,21 @@
 {
-  "name": "nodething",
+  "name": "noth",
   "version": "0.0.1",
-  "description": "Nodething base app",
+  "description": "Noth base app",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nodething/base.git"
+    "url": "git+https://github.com/noth/base.git"
   },
   "author": "Vladimir Trifonov",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nodething/base/issues"
+    "url": "https://github.com/noth/base/issues"
   },
-  "homepage": "https://github.com/nodething/base#readme",
+  "homepage": "https://github.com/noth/base#readme",
   "devDependencies": {
     "eslint-config-standard": "7.0.1",
     "eslint-plugin-standard": "2.1.1",

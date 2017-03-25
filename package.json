@@ -24,10 +24,10 @@
   "dependencies": {
     "app-root-dir": "1.0.2",
     "async": "2.1.5",
+    "debug": "2.6.3",
     "detect-installed": "2.0.4",
     "module-alias": "2.0.0",
-    "ramda": "0.23.0",
-    "winston": "2.3.1"
+    "ramda": "0.23.0"
   },
   "keywords": [
     "noth"
